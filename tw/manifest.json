@@ -2,16 +2,16 @@
   "schema_version": 1,
   "region": "tw",
   "upstream_repository": "https://github.com/kotori8823/sekai-tc-master-db",
-  "upstream_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
-  "upstream_gacha_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
-  "upstream_commit_time": "2026-11-02T16:28:36+08:00",
-  "upstream_data_version": "6.4.0.12",
-  "history_commits": 67,
+  "upstream_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
+  "upstream_gacha_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
+  "upstream_commit_time": "2026-11-19T19:46:34+08:00",
+  "upstream_data_version": "6.4.0.13",
+  "history_commits": 68,
   "covered_compact_commits": [],
-  "current_count": 58,
-  "archived_count": 906,
-  "sha256": "1c5e24ff630ce718bc70f0a74a9103c66aeeb8ad4fd2ca7e5ad1ada22ff7b6b9",
-  "bytes": 21865912,
+  "current_count": 55,
+  "archived_count": 918,
+  "sha256": "8f20d607ca1b7c06e938038bd4e9001ceac6350e1f628abc81bf89643eac7a8d",
+  "bytes": 22468611,
   "gachas": {
     "1": {
       "last_seen_commit": "15a5df3dc837725598e1a28bedd249028ffe9acf",
@@ -494,7 +494,7 @@
       "present_in_latest": false
     },
     "145": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "146": {
@@ -918,7 +918,7 @@
       "present_in_latest": false
     },
     "252": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "253": {
@@ -1478,11 +1478,11 @@
       "present_in_latest": false
     },
     "392": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "393": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "394": {
@@ -2106,7 +2106,7 @@
       "present_in_latest": false
     },
     "579": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "657": {
@@ -2142,7 +2142,7 @@
       "present_in_latest": false
     },
     "1101": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "1102": {
@@ -2178,7 +2178,7 @@
       "present_in_latest": false
     },
     "3000": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "550": {
@@ -2358,7 +2358,7 @@
       "present_in_latest": false
     },
     "593": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "594": {
@@ -2390,7 +2390,7 @@
       "present_in_latest": false
     },
     "602": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "603": {
@@ -2890,7 +2890,7 @@
       "present_in_latest": false
     },
     "842": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "10010": {
@@ -3018,19 +3018,19 @@
       "present_in_latest": false
     },
     "10000": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "10001": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "10002": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "10003": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "10014": {
@@ -3374,7 +3374,7 @@
       "present_in_latest": false
     },
     "824": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "825": {
@@ -3415,7 +3415,7 @@
     },
     "834": {
       "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
-      "present_in_latest": true
+      "present_in_latest": false
     },
     "835": {
       "last_seen_commit": "b74fe48fb8d492fd4a9db6efc94af8741f6e7123",
@@ -3435,7 +3435,7 @@
     },
     "839": {
       "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
-      "present_in_latest": true
+      "present_in_latest": false
     },
     "840": {
       "last_seen_commit": "a34ea99ae68661b5fece9c8d5067e3b8b1582ac7",
@@ -3475,166 +3475,214 @@
     },
     "849": {
       "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
-      "present_in_latest": true
+      "present_in_latest": false
     },
     "850": {
       "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
-      "present_in_latest": true
+      "present_in_latest": false
     },
     "851": {
       "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
-      "present_in_latest": true
+      "present_in_latest": false
     },
     "852": {
       "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
-      "present_in_latest": true
+      "present_in_latest": false
     },
     "853": {
       "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
-      "present_in_latest": true
+      "present_in_latest": false
     },
     "854": {
       "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
-      "present_in_latest": true
+      "present_in_latest": false
     },
     "855": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "856": {
       "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
-      "present_in_latest": true
+      "present_in_latest": false
     },
     "857": {
       "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
-      "present_in_latest": true
+      "present_in_latest": false
     },
     "858": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "859": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "860": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "861": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "10004": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "10005": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "10006": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "10007": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "862": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "863": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "864": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "865": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "866": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "867": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "868": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "869": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "870": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "871": {
       "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
-      "present_in_latest": true
+      "present_in_latest": false
     },
     "872": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "873": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "874": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "875": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "876": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "877": {
       "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
-      "present_in_latest": true
+      "present_in_latest": false
     },
     "878": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "879": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "880": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "882": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "883": {
-      "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     },
     "888": {
       "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
-      "present_in_latest": true
+      "present_in_latest": false
     },
     "889": {
       "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
-      "present_in_latest": true
+      "present_in_latest": false
     },
     "890": {
       "last_seen_commit": "73d1363041e74a87d4c24b4df844dd215a8f6c3f",
+      "present_in_latest": false
+    },
+    "884": {
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
+      "present_in_latest": true
+    },
+    "885": {
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
+      "present_in_latest": true
+    },
+    "886": {
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
+      "present_in_latest": true
+    },
+    "887": {
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
+      "present_in_latest": true
+    },
+    "891": {
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
+      "present_in_latest": true
+    },
+    "892": {
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
+      "present_in_latest": true
+    },
+    "893": {
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
+      "present_in_latest": true
+    },
+    "10028": {
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
+      "present_in_latest": true
+    },
+    "10029": {
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
+      "present_in_latest": true
+    },
+    "10030": {
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
+      "present_in_latest": true
+    },
+    "10031": {
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
+      "present_in_latest": true
+    },
+    "10032": {
+      "last_seen_commit": "3f0c75e9aa48244d97e67d87fd1096218f7b43df",
       "present_in_latest": true
     }
   }
