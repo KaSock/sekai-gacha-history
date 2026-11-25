@@ -2,18 +2,18 @@
   "schema_version": 1,
   "region": "cn",
   "upstream_repository": "https://github.com/kotori8823/sekai-sc-master-db",
-  "upstream_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
-  "upstream_gacha_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
-  "upstream_commit_time": "2026-11-20T10:39:13+08:00",
-  "upstream_data_version": "6.4.1.10",
-  "history_commits": 84,
+  "upstream_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
+  "upstream_gacha_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
+  "upstream_commit_time": "2026-11-25T17:33:19+08:00",
+  "upstream_data_version": "6.4.1.11",
+  "history_commits": 85,
   "covered_compact_commits": [
     "afbd33deb2576bc844e9ad2b9646c19a550be84b"
   ],
-  "current_count": 39,
-  "archived_count": 759,
-  "sha256": "6b219db66c9c0dcd0409b40380bfd249dc507977675aafd39f241187619c4247",
-  "bytes": 20272268,
+  "current_count": 57,
+  "archived_count": 769,
+  "sha256": "24399b81650a606ac25fe85c01539a37915246a6e9003f4271f8e179ffb51a96",
+  "bytes": 20743776,
   "gachas": {
     "1": {
       "last_seen_commit": "5bbb713f9440d244a68d24bfac7a415a4694163b",
@@ -76,7 +76,7 @@
       "present_in_latest": false
     },
     "16": {
-      "last_seen_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
       "present_in_latest": true
     },
     "17": {
@@ -332,7 +332,7 @@
       "present_in_latest": false
     },
     "138": {
-      "last_seen_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
       "present_in_latest": true
     },
     "139": {
@@ -356,7 +356,7 @@
       "present_in_latest": false
     },
     "145": {
-      "last_seen_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
       "present_in_latest": true
     },
     "146": {
@@ -1140,11 +1140,11 @@
       "present_in_latest": false
     },
     "392": {
-      "last_seen_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
       "present_in_latest": true
     },
     "393": {
-      "last_seen_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
       "present_in_latest": true
     },
     "401": {
@@ -1472,7 +1472,7 @@
       "present_in_latest": false
     },
     "579": {
-      "last_seen_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
       "present_in_latest": true
     },
     "580": {
@@ -1556,7 +1556,7 @@
       "present_in_latest": false
     },
     "602": {
-      "last_seen_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
       "present_in_latest": true
     },
     "603": {
@@ -1636,7 +1636,7 @@
       "present_in_latest": false
     },
     "3003": {
-      "last_seen_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
       "present_in_latest": true
     },
     "3004": {
@@ -1664,7 +1664,7 @@
       "present_in_latest": false
     },
     "3011": {
-      "last_seen_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
       "present_in_latest": true
     },
     "107": {
@@ -1933,7 +1933,7 @@
     },
     "686": {
       "last_seen_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
-      "present_in_latest": true
+      "present_in_latest": false
     },
     "3015": {
       "last_seen_commit": "7b78434f3c9c6134f8564b0188145b186886f568",
@@ -2200,35 +2200,35 @@
       "present_in_latest": false
     },
     "10004": {
-      "last_seen_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
       "present_in_latest": true
     },
     "10005": {
-      "last_seen_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
       "present_in_latest": true
     },
     "10006": {
-      "last_seen_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
       "present_in_latest": true
     },
     "10007": {
-      "last_seen_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
       "present_in_latest": true
     },
     "10008": {
-      "last_seen_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
       "present_in_latest": true
     },
     "10009": {
-      "last_seen_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
       "present_in_latest": true
     },
     "10010": {
-      "last_seen_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
       "present_in_latest": true
     },
     "10011": {
-      "last_seen_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
       "present_in_latest": true
     },
     "510": {
@@ -2732,7 +2732,7 @@
       "present_in_latest": false
     },
     "824": {
-      "last_seen_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
       "present_in_latest": true
     },
     "825": {
@@ -2773,7 +2773,7 @@
     },
     "834": {
       "last_seen_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
-      "present_in_latest": true
+      "present_in_latest": false
     },
     "836": {
       "last_seen_commit": "2888066efa6edf2aae949a3d6fa385103e08578c",
@@ -2864,7 +2864,7 @@
       "present_in_latest": false
     },
     "855": {
-      "last_seen_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
       "present_in_latest": true
     },
     "856": {
@@ -2877,7 +2877,7 @@
     },
     "858": {
       "last_seen_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
-      "present_in_latest": true
+      "present_in_latest": false
     },
     "859": {
       "last_seen_commit": "08114df3e9d9070be9fafc1efb5aa18fe8d1ba88",
@@ -2916,7 +2916,7 @@
       "present_in_latest": false
     },
     "861": {
-      "last_seen_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
       "present_in_latest": true
     },
     "863": {
@@ -2924,71 +2924,71 @@
       "present_in_latest": false
     },
     "864": {
-      "last_seen_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
       "present_in_latest": true
     },
     "865": {
-      "last_seen_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
       "present_in_latest": true
     },
     "866": {
-      "last_seen_commit": "6b1055944f6e886e46ef940101c0ee2ef44a8c66",
-      "present_in_latest": false
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
+      "present_in_latest": true
     },
     "867": {
-      "last_seen_commit": "6b1055944f6e886e46ef940101c0ee2ef44a8c66",
-      "present_in_latest": false
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
+      "present_in_latest": true
     },
     "868": {
-      "last_seen_commit": "6b1055944f6e886e46ef940101c0ee2ef44a8c66",
-      "present_in_latest": false
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
+      "present_in_latest": true
     },
     "870": {
       "last_seen_commit": "08114df3e9d9070be9fafc1efb5aa18fe8d1ba88",
       "present_in_latest": false
     },
     "872": {
-      "last_seen_commit": "6b1055944f6e886e46ef940101c0ee2ef44a8c66",
-      "present_in_latest": false
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
+      "present_in_latest": true
     },
     "655": {
       "last_seen_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
-      "present_in_latest": true
+      "present_in_latest": false
     },
     "698": {
-      "last_seen_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
       "present_in_latest": true
     },
     "873": {
-      "last_seen_commit": "6b1055944f6e886e46ef940101c0ee2ef44a8c66",
-      "present_in_latest": false
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
+      "present_in_latest": true
     },
     "874": {
-      "last_seen_commit": "6b1055944f6e886e46ef940101c0ee2ef44a8c66",
-      "present_in_latest": false
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
+      "present_in_latest": true
     },
     "875": {
-      "last_seen_commit": "6b1055944f6e886e46ef940101c0ee2ef44a8c66",
-      "present_in_latest": false
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
+      "present_in_latest": true
     },
     "876": {
-      "last_seen_commit": "6b1055944f6e886e46ef940101c0ee2ef44a8c66",
-      "present_in_latest": false
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
+      "present_in_latest": true
     },
     "936": {
       "last_seen_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
-      "present_in_latest": true
+      "present_in_latest": false
     },
     "3037": {
       "last_seen_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
-      "present_in_latest": true
+      "present_in_latest": false
     },
     "30017": {
-      "last_seen_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
       "present_in_latest": true
     },
     "30018": {
-      "last_seen_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
       "present_in_latest": true
     },
     "878": {
@@ -2996,59 +2996,99 @@
       "present_in_latest": false
     },
     "879": {
-      "last_seen_commit": "6b1055944f6e886e46ef940101c0ee2ef44a8c66",
-      "present_in_latest": false
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
+      "present_in_latest": true
     },
     "880": {
-      "last_seen_commit": "6b1055944f6e886e46ef940101c0ee2ef44a8c66",
-      "present_in_latest": false
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
+      "present_in_latest": true
     },
     "882": {
-      "last_seen_commit": "6b1055944f6e886e46ef940101c0ee2ef44a8c66",
-      "present_in_latest": false
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
+      "present_in_latest": true
     },
     "888": {
-      "last_seen_commit": "6b1055944f6e886e46ef940101c0ee2ef44a8c66",
-      "present_in_latest": false
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
+      "present_in_latest": true
     },
     "889": {
-      "last_seen_commit": "6b1055944f6e886e46ef940101c0ee2ef44a8c66",
-      "present_in_latest": false
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
+      "present_in_latest": true
     },
     "890": {
-      "last_seen_commit": "6b1055944f6e886e46ef940101c0ee2ef44a8c66",
-      "present_in_latest": false
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
+      "present_in_latest": true
     },
     "884": {
-      "last_seen_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
       "present_in_latest": true
     },
     "885": {
-      "last_seen_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
       "present_in_latest": true
     },
     "886": {
-      "last_seen_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
       "present_in_latest": true
     },
     "887": {
-      "last_seen_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
       "present_in_latest": true
     },
     "891": {
-      "last_seen_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
       "present_in_latest": true
     },
     "3038": {
-      "last_seen_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
       "present_in_latest": true
     },
     "892": {
-      "last_seen_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
       "present_in_latest": true
     },
     "893": {
-      "last_seen_commit": "945ea34a06022130b1f44a7295d6ed704b62a7e5",
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
+      "present_in_latest": true
+    },
+    "478": {
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
+      "present_in_latest": true
+    },
+    "656": {
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
+      "present_in_latest": true
+    },
+    "883": {
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
+      "present_in_latest": true
+    },
+    "894": {
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
+      "present_in_latest": true
+    },
+    "895": {
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
+      "present_in_latest": true
+    },
+    "896": {
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
+      "present_in_latest": true
+    },
+    "897": {
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
+      "present_in_latest": true
+    },
+    "3039": {
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
+      "present_in_latest": true
+    },
+    "30019": {
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
+      "present_in_latest": true
+    },
+    "30020": {
+      "last_seen_commit": "24946c4651d01fa17313aa1a77cf72322caaf79b",
       "present_in_latest": true
     }
   }
